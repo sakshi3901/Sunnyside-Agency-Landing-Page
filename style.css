@@ -15,6 +15,9 @@ body {
 .navbar-mob{
   display: none;
 }
+.menu{
+  display: none;
+}
 .nav-bar {
   position: absolute;
   display: inline-block;
